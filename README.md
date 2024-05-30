@@ -9,7 +9,6 @@ Welcome to the MedXpert repository! This application is designed to assist both 
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 MedXpert is an AI-powered application that aims to streamline healthcare processes by leveraging machine learning and natural language processing (NLP) techniques. The application consists of two main components:
@@ -54,9 +53,7 @@ To get started with the MedXpert application, follow these steps:
 ## Contributing
 Contributions to the MedXpert application are welcome! To contribute, follow these steps:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
+2. Create a new branch (`git checkout -b branchName`).
 3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
+4. Push to the branch (`git push origin branchName`).
 5. Create a new Pull Request.
-
-## License
